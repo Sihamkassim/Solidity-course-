@@ -62,5 +62,12 @@ To explore this repository locally:
 
 ---
 
-**Submitted by:** [Your Name]  
+**Group Name: Section - 2**
+1. Amanuel Merara (Ugr/30138/15)
+2. Bethlehem Derbie (Ugr/30293/15)
+3. Betty Oda (Ugr/30298/15)
+4. Eyerusalem Takele (Ugr/30499/15)
+5. Siham Kassim (Ugr/31228/15)
+6. Tsion Tilahun (Ugr/31329/15)
+
 **Date:** May 2026
