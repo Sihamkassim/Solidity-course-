@@ -35,16 +35,8 @@ Deep dive into `require` statements, custom errors for gas efficiency, and the i
 *The following screenshots document the successful execution of the course requirements:*
 
 #### Course Finished
-<img src="./screenshots/Finshed.png" width="600" alt="Finished Screenshot">  
+<img src="https://github.com/Sihamkassim/Solidity-course-/blob/main/screenshots/finshed.png" width="600" alt="Finished Screenshot">  
 *Description: Proof of course completion.*
-
-#### Contract Deployment
-![Deployment Screenshot](./screenshots/deployment.png)  
-*Description: Successful migration of the smart contract to the testnet.*
-
-#### Function Interaction
-![Interaction Screenshot](./screenshots/interaction.png)  
-*Description: Testing state changes and viewing results via the console/frontend.*
 
 ---
 
