@@ -3,5 +3,5 @@
 !.gitignore
 !/screenshots/
 !/screenshots/**
-
-
+.DS_Store
+node_modules/

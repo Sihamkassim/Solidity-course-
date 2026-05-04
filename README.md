@@ -35,7 +35,7 @@ Deep dive into `require` statements, custom errors for gas efficiency, and the i
 *The following screenshots document the successful execution of the course requirements:*
 
 #### Course Finished
-<img src="./screenshots/finshed.png" width="600" alt="Finished Screenshot">  
+<img src="./screenshots/Finshed.png" width="600" alt="Finished Screenshot">  
 *Description: Proof of course completion.*
 
 #### Contract Deployment
@@ -61,6 +61,7 @@ To explore this repository locally:
     Check the `contracts/` directory for the implemented logic.
 
 ---
+
 
 **Group Name: Section - 2**
 1. Amanuel Merara (Ugr/30138/15)
