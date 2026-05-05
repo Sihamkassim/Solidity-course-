@@ -3,5 +3,7 @@
 !.gitignore
 !/screenshots/
 !/screenshots/**
+!/code/
+!/code/**
 .DS_Store
 node_modules/
