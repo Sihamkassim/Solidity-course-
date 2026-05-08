@@ -54,6 +54,18 @@ To explore this repository locally:
 
 ---
 
+---
+
+## 👩‍💻 Individual Contribution – Betty Oda
+
+- Studied Solidity fundamentals and Ethereum smart contract concepts from the Alchemy course.
+- Practiced writing and testing smart contracts using Remix IDE.
+- Completed assigned course exercises and verified outputs.
+- Collected and uploaded screenshots as proof of task completion.
+- Reviewed and organized Solidity notes under course materials.
+- Contributed to repository updates and collaboration via GitHub.
+
+**Tools & Technologies:** Solidity, Remix IDE, Ethereum, GitHub.
 
 **Group Name: Section - 2**
 1. Amanuel Merara (Ugr/30138/15)
@@ -63,6 +75,7 @@ To explore this repository locally:
 5. Eyerusalem Takele (Ugr/30499/15)
 6. Siham Kassim (Ugr/31228/15)
 7. Tsion Tilahun (Ugr/31329/15)
+
    
 
 **Date:** May 2026
